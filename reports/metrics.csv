@@ -1,0 +1,4 @@
+model,cv_r2_log,test_r2_log,test_r2_rupees,test_mae_rupees,test_rmse_rupees
+Linear Regression,0.8823,0.8789,0.8484,91856,178351
+Ridge,0.8823,0.879,0.8489,91832,178022
+Random Forest,0.9149,0.9128,0.9158,70627,132884

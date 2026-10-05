@@ -1,0 +1,30 @@
+{
+  "best": "Random Forest",
+  "table": [
+    {
+      "model": "Linear Regression",
+      "cv_r2_log": 0.8823,
+      "test_r2_log": 0.8789,
+      "test_r2_rupees": 0.8484,
+      "test_mae_rupees": 91856,
+      "test_rmse_rupees": 178351
+    },
+    {
+      "model": "Ridge",
+      "cv_r2_log": 0.8823,
+      "test_r2_log": 0.879,
+      "test_r2_rupees": 0.8489,
+      "test_mae_rupees": 91832,
+      "test_rmse_rupees": 178022
+    },
+    {
+      "model": "Random Forest",
+      "cv_r2_log": 0.9149,
+      "test_r2_log": 0.9128,
+      "test_r2_rupees": 0.9158,
+      "test_mae_rupees": 70627,
+      "test_rmse_rupees": 132884
+    }
+  ],
+  "n_rows": 6916
+}
