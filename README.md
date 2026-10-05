@@ -2,7 +2,7 @@
 
 Predicts the resale price of a used car in India from brand, age, kilometres driven, fuel, transmission, owner count and engine specs. Compares Linear Regression, Ridge and Random Forest, and serves the best model through a Streamlit web app.
 
-**Live app:** _paste your Streamlit link here_  
+**Live app:** (https://deepak-nandode-rymwmdpzcxeq5supnn3yav.streamlit.app/)  
 **Data:** Kaggle, "Vehicle dataset from CarDekho" (nehalbirla), file `Car details v3.csv`
 
 ## Results (hold-out test set, 20%)
